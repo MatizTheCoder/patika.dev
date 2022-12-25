@@ -14,6 +14,6 @@ function drawTriangle($number){
 
 }
 
-drawTriangle(15)
+drawTriangle(20)
 
 ?>
